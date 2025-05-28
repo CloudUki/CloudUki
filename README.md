@@ -2,8 +2,8 @@ Hello there 👋
 
 🔭 I’m currently working on:
 
-- [Design Firm](https://github.com/CloudUki/Affinity), a personal website to showcase what I've learned. This is an inclass project, where I am utilizing JavaScript, HTML(Bootstrap), and SCSS.
-
+- [Recipe App]([https://github.com/CloudUki/Recipe-App]), a mobile application to make cooking easier. You can search and explore for recipes with steps and ingredients, delivering real time results. Utilizing React-Native, Node.js, Express.js, and MongoDb. 
+  
 📫 How to reach me:
-- [My Portfolio](https://clouduki.github.io/Brandons-Portfolio/index.html) 
+- [My Portfolio]([https://brandons-portfolio.vercel.app/]) 
 - Email: brandon.yang1210@gmail.com
