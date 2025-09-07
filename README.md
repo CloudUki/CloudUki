@@ -2,7 +2,7 @@ Hello there 👋
 
 🔭 I’m currently working on:
 
-- In the planning stages
+- A Business Card
   
 📫 How to reach me:
 - [My Portfolio](https://brandons-portfolio.vercel.app/) 
