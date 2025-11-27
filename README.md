@@ -3,7 +3,7 @@ Hello there 👋
 🔭 I’m currently working on:
 
 - A Car Dashboard
-- A Friends Portoflio
+- [Friends Portfolio](https://github.com/CloudUki/Jasons-Portfolio)
   
 📫 How to reach me:
 - [My Portfolio](https://brandons-portfolio.vercel.app/) 
